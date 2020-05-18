@@ -1,0 +1,6 @@
+framework module Pods_MVVM_github_client {
+  umbrella header "Pods-MVVM_github_client-umbrella.h"
+
+  export *
+  module * { export * }
+}
